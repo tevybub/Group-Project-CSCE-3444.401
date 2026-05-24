@@ -15,7 +15,7 @@ To create a simple, personal alternative to bloated media tracking apps — help
   - Watching
   - Completed
   - Dropped
-- Assign a genre to eech title
+- Assign a genre to each title
 - Assign a streaming platform to each title
 - Add personal ratings and notes
 - Search for watchlist entries
