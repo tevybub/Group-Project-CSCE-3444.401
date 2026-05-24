@@ -19,8 +19,12 @@ WatchTrack is a personal media watchlist application that helps the users organi
 -
 
 
-Team members + Roles:
-| Tevin Daney - Team Lead |
-Members: Zion Welsh, Collin Burns, Jeet Rathod |
-Project Description - (Insert text here) |
+## Team Members and Roles
+| Team Member | Role | Assigned Feature Branch | Planned Contribution |
+|---|---|---|---|
+| ~~Add you Name~~ | Team Lead / Repository Manager | `feature/dashboard-ui` | Repository organization, dashboard interface, and merge coordination |
+| ~~Add you Name~~ | Watchlist Feature Developer | `feature/watchlist-management` | Add, edit, delete, and update media watchlist entries |
+| ~~Add you Name~~ | Search & Filter Developer | `feature/search-filter` | Search functionality and filtering by genre, platform, or watch status |
+| Zion Welsh | Account / Backend Developer | `feature/user-authentication` | User registration, login, and account-related features |
+
 Future Feature branches: (Insert here)
