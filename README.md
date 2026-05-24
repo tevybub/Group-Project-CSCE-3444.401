@@ -28,3 +28,8 @@ WatchTrack is a personal media watchlist application that helps the users organi
 | Zion Welsh | Account / Backend Developer | `feature/user-authentication` | User registration, login, and account-related features |
 
 Future Feature branches: (Insert here)
+
+## Branch Structure
+
+
+## Development Workflow
