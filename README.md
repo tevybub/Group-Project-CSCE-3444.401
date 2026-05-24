@@ -9,14 +9,16 @@ WatchTrack is a personal media watchlist application that helps the users organi
 - User account registration and the login
 - Add movies and television shows to a personal watchlist
 - Edit or remove watchlist entries
-- 
--
--
--
--
--
--
--
+- Track viewing status:
+  - Plan to Watch
+  - Watching
+  - Completed
+  - Dropped
+- Assign a genre to eech title
+- Assign a streaming platform to each title
+- Add personal ratings and notes
+- Search for watchlist entries
+- Filter entries by genre, platform, or viewing status
 
 
 ## Team Members and Roles
