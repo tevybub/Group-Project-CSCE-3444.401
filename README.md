@@ -2,7 +2,8 @@
 ## Project Description
 WatchTrack is a personal media watchlist application that helps the users organize there  movies and tv shows they plan to watch, are currently watching and or have already completed. Users will be able to add titles, track viewing status, organize content by genre or streaming platform, leave personal ratings, and add notes.
 
-~~(Add a goal for this here)~~
+## Goal 
+To create a simple, personal alternative to bloated media tracking apps — helping users keep track of what they're watching, what's next, and what's worth rewatching.
 
 ## Planned Features
 
