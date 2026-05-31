@@ -31,8 +31,19 @@ The following user information may be stored for each account:
 
 ## Basic User Stories
 
+- As a new user, I want to create an account so that I can save my own watchlist.
+- As a returning user, I want to log in so that I can view and update my saved media.
+- As a logged-in user, I want to log out so that my account is protected on shared devices.
+- As a user, I want to receive a clear message when my login information is incorrect.
 
 ## Initial Acceptance Criteria
 
+- A new user can register with the required account information.
+- An existing user can log in using valid account credentials.
+- Invalid login information produces an error message.
+- A logged-in user can log out.
+- Watchlist data is associated with the correct user account.
 
 ## Notes
+
+The final implementation approach will depend on the technology stack selected by the team. Passwords should not be stored as plain text in the completed application.
